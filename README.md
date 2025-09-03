@@ -53,9 +53,9 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
 
 ## 🚀 My Projects
 
-- [IslandTravel](https://glacierad.github.io/Iceland.travel/) - Iceland Travel Website <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
+- [IslandTravel](https://glacierad.github.io/Iceland.travel/) - Iceland Travel Website using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
 - [Cookies](https://glacierad.github.io/cookies/) - Landing page (Angular <img src="images/Angular.svg" width="12px" height="12px"/>)
-- [Macaroons](https://glacierad.github.io/Macaroons/) - Landing page using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
+- [Macaroons](https://glacierad.github.io/Macaroons/) - Animated landing page using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
 - [Pizza](https://glacierad.github.io/PizzaCheff/) - Landing page using <img src="images/jQuery.svg" width="12px" height="12px"/>
 - [TeaCollection](https://glacierad.github.io/TeaCollections/) - Landing page using <img src="images/bootstrap.svg" width="12px" height="12px"/>
 - [Software](https://glacierad.github.io/Software/) - Software landing page
