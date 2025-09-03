@@ -35,6 +35,10 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
     <img src="images/github.svg" width="40px" height="40px"/>
     <img src="images/vscode.svg" width="40px" height="40px"/>
     <img src="images/webstorm.svg" width="40px" height="40px"/>
+    <img src="images/vite.svg" width="40px" height="40px"/>
+    <img src="images/webpack.svg" width="40px" height="40px"/>
+    <img src="images/postcss.svg" width="40px" height="40px"/>
+    <img src="images/nodejs.svg" width="40px" height="40px"/>
 </p>
 
 ### 🖥 Other Skills
