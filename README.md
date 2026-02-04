@@ -54,21 +54,9 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
 ## 🚀 My Projects
 
 - [IslandTravel](https://glacierad.github.io/Iceland.travel/) - Iceland Travel Website using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
-- [Cookies](https://glacierad.github.io/cookies/) - Landing page (Angular <img src="images/Angular.svg" width="12px" height="12px"/>)
-- [Macaroons](https://glacierad.github.io/Macaroons/) - Animated landing page using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
+- [Cookies](https://github.com/GlacierAD/Cookies) - Landing page (Angular <img src="images/Angular.svg" width="12px" height="12px"/>)
 - [Pizza](https://glacierad.github.io/PizzaCheff/) - Landing page using <img src="images/jQuery.svg" width="12px" height="12px"/>
-- [TeaCollection](https://glacierad.github.io/TeaCollections/) - Landing page using <img src="images/bootstrap.svg" width="12px" height="12px"/>
-- [Software](https://glacierad.github.io/Software/) - Software landing page
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlacierAD&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlacierAD&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
+- https://ckdgc.ru - Website of a logistics company on vanilla <img src="images/js.svg" width="12px" height="12px">
 ---
 
 ## 📫 Contacts
