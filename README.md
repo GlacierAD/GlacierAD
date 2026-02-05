@@ -55,7 +55,7 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
 
 - [IslandTravel](https://glacierad.github.io/Iceland.travel/) - Iceland Travel Website using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
 - [Cookies](https://github.com/GlacierAD/Cookies) - Landing page (Angular <img src="images/Angular.svg" width="12px" height="12px"/>)
-- [Pizza](https://glacierad.github.io/PizzaCheff/) - Landing page using <img src="images/jQuery.svg" width="12px" height="12px"/>
+- [Quiz](https://github.com/GlacierAD/Quiz) - The SPA application is a quiz using <img src="images/nodejs.svg" width="12px" height="12px"/>, <img src="images/js.svg" width="12px" height="12px"/> and <img src="images/webpack.svg" width="12px" height="12px"/>
 - https://ckdgc.ru - Site for logistic company on vanilla <img src="images/js.svg" width="12px" height="12px">
 ---
 
