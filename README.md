@@ -22,6 +22,7 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
     <img src="images/tailwind.svg" width="40px" height="40px"/>
     <img src="images/bootstrap.svg" width="40px" height="40px"/>
     <img src="images/jQuery.svg" width="40px" height="40px"/>
+    <img src="images/react.svg" width="40px" height="40px"/>
     <img src="images/Angular.svg" width="40px" height="40px"/>
 </p>
 
@@ -33,30 +34,29 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
     <img src="images/npm.svg" width="40px" height="40px"/>
     <img src="images/git.svg" width="40px" height="40px"/>
     <img src="images/github.svg" width="40px" height="40px"/>
-    <img src="images/vscode.svg" width="40px" height="40px"/>
-    <img src="images/webstorm.svg" width="40px" height="40px"/>
     <img src="images/vite.svg" width="40px" height="40px"/>
+    <img src="images/docker.svg" width="40px" height="40px"/>
     <img src="images/webpack.svg" width="40px" height="40px"/>
     <img src="images/postcss.svg" width="40px" height="40px"/>
     <img src="images/nodejs.svg" width="40px" height="40px"/>
 </p>
 
-### 🖥 Other Skills
-
-<p align="center">
-    <img src="images/figma.svg" width="40px" height="40px"/>
-    <img src="images/photoshop.svg" width="40px" height="40px"/>
-    <img src="images/xd.svg" width="40px" height="40px"/>
-</p>
-
----
-
 ## 🚀 My Projects
 
-- [IslandTravel](https://glacierad.github.io/Iceland.travel/) - Iceland Travel Website using <img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>
-- [Cookies](https://github.com/GlacierAD/Cookies) - Landing page (Angular <img src="images/Angular.svg" width="12px" height="12px"/>)
-- [Quiz](https://github.com/GlacierAD/Quiz) - The SPA application is a quiz using <img src="images/nodejs.svg" width="12px" height="12px"/>, <img src="images/js.svg" width="12px" height="12px"/> and <img src="images/webpack.svg" width="12px" height="12px"/>
-- https://ckdgc.ru - Site for logistic company on vanilla <img src="images/js.svg" width="12px" height="12px">
+- [IslandTravel](https://glacierad.github.io/Iceland.travel/) - Iceland travel project with adaptive layout, custom
+  styles in LESS and Gulp-powered build process for optimized assets and workflow. (<img src="images/less.svg" width="12px" height="12px"/> and <img src="images/gulp.svg" width="12px" height="12px"/>)
+- https://ckdgc.ru - Full-cycle development of a corporate logistics website from scratch.
+  Handled UI/UX design, responsive layout, interactive functionality with vanilla JavaScript,
+  minimal backend for form submission, and basic SEO/website optimization. (<img src="images/js.svg" width="12px" height="12px"/>)
+
+
+
+- [Cookies](https://github.com/GlacierAD/Cookies) - Landing page (
+  Angular <img src="images/Angular.svg" width="12px" height="12px"/>)
+- [Quiz](https://github.com/GlacierAD/Quiz) - The SPA application is a quiz
+  using <img src="images/nodejs.svg" width="12px" height="12px"/>, <img src="images/js.svg" width="12px" height="12px"/>
+  and <img src="images/webpack.svg" width="12px" height="12px"/>
+
 ---
 
 ## 📫 Contacts
@@ -66,8 +66,5 @@ I build modern, fast, and responsive websites from landing pages to full-scale p
   </a>
   <a href="https://t.me/GlacierAD">
     <img src="images/telegram.svg" width="40" height="40" alt="Telegram" />
-  </a>
-  <a href="https://wa.me/+79161609427">
-    <img src="images/whatsapp.svg" width="40" height="40" alt="Telegram" />
   </a>
   
